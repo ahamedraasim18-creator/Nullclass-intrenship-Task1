@@ -95,4 +95,12 @@ Query responses using similarity search
 
 
 
+NAME:AHAMED RAASIM A.B 
+INTERNSHIP:NULLCLASS GEN AI
+TASK 1:KNOWLEDGE BASE AUTO UPDATER
+
+
+
+
+
 
