@@ -1,4 +1,4 @@
-# Nullclass-intrenship-Task1
+# Nullclass-intrenship-Task
 Auto Knowledge Base Updater using Langch🧠 Auto Knowledge Base Updater using LangChain & ChromaDB
 
 This project implements an automated knowledge base update system that fetches data from online sources, processes it, embeds it, and stores it inside a vector database (Chroma DB).
